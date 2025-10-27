@@ -17,11 +17,3 @@ GitHub skills are an important in advancing in my GIS career because it allows u
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
-
-This directory is a placeholder for future GIS data files.
-
-## Potential Data Types
-- Shapefiles (.shp)
-- GeoJSON (.geojson)
-- Raster files (.tif)
-- GPS tracks (.gpx)
