@@ -11,6 +11,7 @@ In this assignment, I'm learning:
 - Professional documentation with markdown
 - Open source collaboration workflows
 - Version control for GIS projects
+- https://github.com/ua-gist604b-f25/m1a3-github-repository-management-nicolas-paz-gis
 
 ## 📋 Repository Purpose
 This repository demonstrates GitHub skills including:
